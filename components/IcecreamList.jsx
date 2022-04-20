@@ -8,7 +8,7 @@ const IcecreamList = () => {
       <h1 className={styles.title}>THE BEST ICE CREAM IN TOWN</h1>
       <p className={styles.desc}>
         Come and disappear in our creamy world..!!!<br/>
-        Check out our new flaours today...!!!
+        Check out our new flavors today...!!!
       </p>
       <div className={styles.wrapper}>
            <IcecreamCard img="/img/1.png" title="Strawberry Blossom"
